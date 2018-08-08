@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "404 Alert",
+	"version": "1.0",
+	"description": "404 Alert",
+	"browser_action": {
+		"default_popup": "popup.html",
+		"default_icon": "browser_action.png"
+	},
+	"devtools_page": "devtools.html"
+}

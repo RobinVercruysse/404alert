@@ -1,0 +1,1 @@
+Chrome extensions that alerts the user when the current website failed to load certain resources because those resources are hosted on an unregistered domain.
